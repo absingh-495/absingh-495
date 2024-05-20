@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abhishek-singh-a8765225b" target="blank"><img align="center" src="https://tenor.com/view/coding-anime-gif-24565564  ="abhishek singh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abhishek-singh-a8765225b" target="blank"><img align="center" src=" linkedin.com/in/abhishek-singh-a8765225b  ="abhishek singh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
